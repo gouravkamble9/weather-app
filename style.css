@@ -176,4 +176,5 @@ body{
 }
 .location-not-found img{
     width: 80%;
+    animation: float 4s ease infinite;
 }
