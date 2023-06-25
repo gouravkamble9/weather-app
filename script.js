@@ -50,7 +50,7 @@ async function checkWeather(city,lat,long){
 
     switch(weather_data.weather[0].main){
         case 'Clouds':
-            weather_img.src = "assets/cloud.png";
+            weather_img.src = "https://github.com/gouravkamble9/weather-app/blob/main/assets/cloud.png";
             break;
         case 'Clear':
             weather_img.src = "assets/clear.png";
