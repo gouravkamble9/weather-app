@@ -20,7 +20,7 @@ body{
 }
 
 .getLoc{
-    margin: 10px 10px 10px 0px;
+    margin: 10px 10px 20px 0px;
     padding: 12px 16px;
     border-radius: 20px;
     background-color: #e6f5fb;
@@ -101,6 +101,7 @@ body{
 .city{
     font-size: 20px;
     font-weight: 600;
+    margin-top: 20px;
 }
 
 .weather-box{
